@@ -1,10 +1,6 @@
 # clone-tabnews
+
 Implementation from tabnews.com.br to learn
-
-
-
-
-
 
 nvm install lts/hydrogen
 
@@ -24,3 +20,18 @@ npm install react-dom@18.2.0
 
 npm run dev
 
+---
+
+installed editorconfig extension on VS Code
+
+---
+
+npm install prettier -D
+
+---
+
+installed prettier - code formatter extension on VS Code
+
+change settins on VS Code to use prettier as default formatter, enable Format On Save, disable Auto Save
+
+---
