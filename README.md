@@ -35,3 +35,5 @@ installed prettier - code formatter extension on VS Code
 change settins on VS Code to use prettier as default formatter, enable Format On Save, disable Auto Save
 
 ---
+
+npm install --save-dev jest@29.6.2
