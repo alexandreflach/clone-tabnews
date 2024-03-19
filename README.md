@@ -37,3 +37,21 @@ change settins on VS Code to use prettier as default formatter, enable Format On
 ---
 
 npm install --save-dev jest@29.6.2
+
+---
+
+docker compose -f infra/compose.yaml up -d
+
+docker compose -f infra/compose.yaml down
+
+docker ps
+
+---
+
+sudo apt-update
+
+sudo apt install postgresql-client
+
+psql --host=localhost --username=postgres --port=5432
+
+---
