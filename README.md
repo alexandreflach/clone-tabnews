@@ -55,3 +55,7 @@ sudo apt install postgresql-client
 psql --host=localhost --username=postgres --port=5432
 
 ---
+
+npm install pg@8.11.3
+
+---
