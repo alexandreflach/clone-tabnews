@@ -59,3 +59,13 @@ psql --host=localhost --username=postgres --port=5432
 npm install pg@8.11.3
 
 ---
+
+npm install node-pg-migrate@6.2.2
+
+## npm run migration:create first migration test
+
+---
+
+npm install dotenv@16.4.4
+
+---
