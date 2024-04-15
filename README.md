@@ -69,3 +69,7 @@ npm install node-pg-migrate@6.2.2
 npm install dotenv@16.4.4
 
 ---
+
+npm install dotenv-expand@11.0.6
+
+--
