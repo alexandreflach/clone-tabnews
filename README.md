@@ -81,3 +81,11 @@ npm install concurrently --save-dev concurrently@8.2.2
 npm install async-retry@1.3.3
 
 ---
+
+npm install --save-dev eslint-plugin-jest@28.6.0
+
+---
+
+npm i -D eslint-config-prettier@9.1.0
+
+---
