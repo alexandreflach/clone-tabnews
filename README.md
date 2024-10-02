@@ -101,3 +101,11 @@ npm i -D @commitlint/config-conventional@19.2.2
 npm install --save-dev husky@9.1.4
 
 ---
+
+npm i commitizen@4.3.0
+
+---
+
+npx commitizen init cz-conventional-changelog --save-dev --save-exact
+
+---
