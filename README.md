@@ -89,3 +89,11 @@ npm install --save-dev eslint-plugin-jest@28.6.0
 npm i -D eslint-config-prettier@9.1.0
 
 ---
+
+npm i -D @commitlint/cli@19.3.0
+
+---
+
+npm i -D @commitlint/config-conventional@19.2.2
+
+---
