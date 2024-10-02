@@ -97,3 +97,7 @@ npm i -D @commitlint/cli@19.3.0
 npm i -D @commitlint/config-conventional@19.2.2
 
 ---
+
+npm install --save-dev husky@9.1.4
+
+---
