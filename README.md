@@ -109,3 +109,7 @@ npm i commitizen@4.3.0
 npx commitizen init cz-conventional-changelog --save-dev --save-exact
 
 ---
+
+npx npm-check-updates -i
+
+---
