@@ -113,3 +113,7 @@ npx commitizen init cz-conventional-changelog --save-dev --save-exact
 npx npm-check-updates -i
 
 ---
+
+npm install -E swr@2.2.5
+
+---
