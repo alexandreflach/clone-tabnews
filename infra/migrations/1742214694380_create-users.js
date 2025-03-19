@@ -21,7 +21,6 @@ exports.up = (pgm) => {
     password: {
       type: "varchar(72)",
       notNull: true,
-      unique: true,
     },
     //why timestamp with timezone? https://justatheory.com/2012/04/postgres-use-timestamptz/
     created_at: {
