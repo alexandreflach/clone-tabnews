@@ -121,3 +121,11 @@ npm install -E swr@2.2.5
 npm i -E next-connect
 
 ---
+
+npm i -E uuid@11.1.0
+
+---
+
+add migration command: npm run migrations:create create users
+
+run specific tests: npm run test:watch -- users
